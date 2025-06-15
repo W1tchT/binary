@@ -23,10 +23,10 @@
       4. 1 Tombol Untuk Cek Level
    
 4. Cara Kerja Program
-      A. Menampilkan Jumlah Simpul
-      B. Menampilkan Jumlah Ranting
-      C. Menampilkan Derajat
-      D. Menampilkan Level
+      1. Menampilkan Jumlah Simpul
+      2. Menampilkan Jumlah Ranting
+      3. Menampilkan Derajat
+      4. Menampilkan Level
 
    - GUI ( Graphical User Interface)
    
