@@ -13,14 +13,14 @@
 3. Deskripsi Fitur Aplikasi
    
     Aplikasi terdiri dari 2 area utama:
-      • Label yang berisi SImpul 
-      • TextField untuk Menampilkan Jumlah Simpul, Ranting, Derajat, Level
+      1. Label yang berisi SImpul 
+      2. TextField untuk Menampilkan Jumlah Simpul, Ranting, Derajat, Level
 
     Komponen utama:
-      • 1 Tombol untuk Cek Jumlah Simul
-      • 1 Tombol Untuk Cek Jumlah Ranting
-      • 1 Tombol Untuk Cek Derajat
-      • 1 Tombol Untuk Cek Level
+      1. 1 Tombol untuk Cek Jumlah Simul
+      2. 1 Tombol Untuk Cek Jumlah Ranting
+      3. 1 Tombol Untuk Cek Derajat
+      4. 1 Tombol Untuk Cek Level
    
 4. Cara Kerja Program
       A. Menampilkan Jumlah Simpul
