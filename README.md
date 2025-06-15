@@ -28,6 +28,8 @@
       3. Menampilkan Derajat
       4. Menampilkan Level
 
+-
+
    - GUI ( Graphical User Interface)
    
 A. ![Screenshot 2025-06-15 214358](https://github.com/user-attachments/assets/975add37-7a66-456a-a9e0-29ae0fa49397)
