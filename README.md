@@ -1,5 +1,5 @@
 1. Tujuan
-    Tujuan dari aplikasi ini adalah untuk memindahkan huruf-huruf atau angka tertentu dari area input ke area output melalui proses manual yang dikendalikan         oleh tombol-tombol interaktif pada antarmuka pengguna (GUI). Proyek ini melatih pemahaman mahasiswa tentang:
+    Tujuan dari aplikasi adalah untuk Menampilkan Jumlah Simpul, Ranting, Derajat, Level yang dikendalikan oleh tombol-tombol interaktif pada antarmuka pengguna (GUI). Proyek ini melatih pemahaman mahasiswa tentang:
       1. Komponen GUI di Java Swing,
       2. Event handling,
       3. Manipulasi data antar komponen form.
