@@ -30,23 +30,23 @@
 
    - GUI ( Graphical User Interface)
    
-1. ![Screenshot 2025-06-15 214358](https://github.com/user-attachments/assets/975add37-7a66-456a-a9e0-29ae0fa49397)
+    1. ![Screenshot 2025-06-15 214358](https://github.com/user-attachments/assets/975add37-7a66-456a-a9e0-29ae0fa49397)
 
-1. Buat Desain Seperti ini di NetBeans
+    1. Buat Desain Seperti ini di NetBeans
 
-2. ![Screenshot 2025-06-15 223248](https://github.com/user-attachments/assets/b51cd45d-a346-4b76-a3e2-1c387eac22ea)
+    2. ![Screenshot 2025-06-15 223248](https://github.com/user-attachments/assets/b51cd45d-a346-4b76-a3e2-1c387eac22ea)
 
-2. didalam Text Field Ubah Semua Variable menjadi jtxtA, jtxtB, jtxtC dan seterusnya
+    2. didalam Text Field Ubah Semua Variable menjadi jtxtA, jtxtB, jtxtC dan seterusnya
 
-2. ![Screenshot 2025-06-15 223521](https://github.com/user-attachments/assets/3a04dfc3-b957-41d6-9483-4870c0b29c07)
+    2. ![Screenshot 2025-06-15 223521](https://github.com/user-attachments/assets/3a04dfc3-b957-41d6-9483-4870c0b29c07)
 
-3. Pada Text Field ubah semua variable yg bukan merupakan bagian dari simpul bisa di isi Jtxt0, jtxt1, jtxt2 dan seterusnya dimulai dari atas
+    3. Pada Text Field ubah semua variable yg bukan merupakan bagian dari simpul bisa di isi Jtxt0, jtxt1, jtxt2 dan seterusnya dimulai dari atas
 
-4. ![Screenshot 2025-06-15 223717](https://github.com/user-attachments/assets/3ce98507-ef9a-4298-8ad2-a62e908bbb7c)
+    4. ![Screenshot 2025-06-15 223717](https://github.com/user-attachments/assets/3ce98507-ef9a-4298-8ad2-a62e908bbb7c)
 
-4. Pada Bagian yang ini kotak yang besar menggunakan Text Area, Variabelnya diubah jtxtIN
+    4. Pada Bagian yang ini kotak yang besar menggunakan Text Area, Variabelnya diubah jtxtIN
 
-5. ![Screenshot 2025-06-15 224051](https://github.com/user-attachments/assets/984b63e1-b942-489c-8546-75a6454835d5)
+    5. ![Screenshot 2025-06-15 224051](https://github.com/user-attachments/assets/984b63e1-b942-489c-8546-75a6454835d5)
 
-5. didalam kelima button ini bisa di isi seperti di dalam Binary
+    5. didalam kelima button ini bisa di isi seperti di dalam Binary
     
