@@ -26,8 +26,7 @@
         jtxtX.setText("24");
         jtxtY.setText("25");
         jtxtZ.setText("26");
-        jtxtIN.setText("Total huruf A - Z = 26 Simpul");
-}                                        
+        jtxtIN.setText("Total huruf A - Z = 26 Simpul");                                        
 
 
 
@@ -60,8 +59,7 @@
         jtxtY.setText("24");
         jtxtZ.setText("25");
         jtxtIN.setText("Jumlah Ranting = Jumlah Simpul - 1\n" +
-                "26 - 1 = 25 Ranting");
-}                                        
+                "26 - 1 = 25 Ranting");                                    
 
 
 
@@ -97,8 +95,7 @@
 "B = 1	G = 1	L = 2	Q = 0	V = 0\n" +
 "C = 2	H = 0	M = 0	R = 0	W = 0\n" +
 "D = 1	I = 2	N = 0	S = 3	X = 0\n" +
-"E = 3	J = 0	O = 2	T = 0	Y = 0");
-}                                        
+"E = 3	J = 0	O = 2	T = 0	Y = 0");                                 
 
 
 
@@ -114,4 +111,3 @@
 "Level = 2	Simpul = F, G, H, I, J, K, L		Jumlah = 7\n" +
 "Level = 3	Simpul = M, N, O, P, Q, R, S, T		Jumlah = 8\n" +
 "Level = 4	Simpul = U, V, W, X, Y, Z		Jumlah = 6");
-}
