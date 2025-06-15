@@ -1,8 +1,8 @@
 1. Tujuan
     Tujuan dari aplikasi ini adalah untuk memindahkan huruf-huruf atau angka tertentu dari area input ke area output melalui proses manual yang dikendalikan         oleh tombol-tombol interaktif pada antarmuka pengguna (GUI). Proyek ini melatih pemahaman mahasiswa tentang:
-      • Komponen GUI di Java Swing,
-      • Event handling,
-      • Manipulasi data antar komponen form.
+      1. Komponen GUI di Java Swing,
+      2. Event handling,
+      3. Manipulasi data antar komponen form.
    
 2. Teknologi yang Digunakan
     1. Bahasa Pemrograman: Java
