@@ -98,13 +98,11 @@
 "C = 2	H = 0	M = 0	R = 0	W = 0\n" +
 "D = 1	I = 2	N = 0	S = 3	X = 0\n" +
 "E = 3	J = 0	O = 2	T = 0	Y = 0");
-t("");
-        jtxt3.setText("");
     }                                        
 
 
 
-/*Cek SImpul :*\
+/*Cek Level :*\
 
         jtxt0.setText("Level 0");
         jtxt1.setText("Level 1");
