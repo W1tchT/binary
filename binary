@@ -1,0 +1,118 @@
+/*Cek Jumlah Simpul :*\
+
+        jtxtA.setText("1");
+        jtxtB.setText("2");
+        jtxtC.setText("3");
+        jtxtD.setText("4");
+        jtxtE.setText("5");
+        jtxtF.setText("6");
+        jtxtG.setText("7");
+        jtxtH.setText("8");
+        jtxtI.setText("9");
+        jtxtJ.setText("10");
+        jtxtK.setText("11");
+        jtxtL.setText("12");
+        jtxtM.setText("13");
+        jtxtN.setText("14");
+        jtxtO.setText("15");
+        jtxtP.setText("16");
+        jtxtQ.setText("17");
+        jtxtR.setText("18");
+        jtxtS.setText("19");
+        jtxtT.setText("20");
+        jtxtU.setText("21");
+        jtxtV.setText("22");
+        jtxtW.setText("23");
+        jtxtX.setText("24");
+        jtxtY.setText("25");
+        jtxtZ.setText("26");
+        jtxtIN.setText("Total huruf A - Z = 26 Simpul");
+    }                                        
+
+
+
+/*Cek Jumlah Ranting :*\
+
+        jtxtA.setText("-1");
+        jtxtB.setText("1");
+        jtxtC.setText("2");
+        jtxtD.setText("3");
+        jtxtE.setText("4");
+        jtxtF.setText("5");
+        jtxtG.setText("6");
+        jtxtH.setText("7");
+        jtxtI.setText("8");
+        jtxtJ.setText("9");
+        jtxtK.setText("10");
+        jtxtL.setText("11");
+        jtxtM.setText("12");
+        jtxtN.setText("13");
+        jtxtO.setText("14");
+        jtxtP.setText("15");
+        jtxtQ.setText("16");
+        jtxtR.setText("17");
+        jtxtS.setText("18");
+        jtxtT.setText("19");
+        jtxtU.setText("20");
+        jtxtV.setText("21");
+        jtxtW.setText("22");
+        jtxtX.setText("23");
+        jtxtY.setText("24");
+        jtxtZ.setText("25");
+        jtxtIN.setText("Jumlah Ranting = Jumlah Simpul - 1\n" +
+                "26 - 1 = 25 Ranting");
+    }                                        
+
+
+
+/*Cek Derajat :*\
+
+        jtxtA.setText("4");
+        jtxtB.setText("1");
+        jtxtC.setText("2");
+        jtxtD.setText("1");
+        jtxtE.setText("3");
+        jtxtF.setText("3");
+        jtxtG.setText("1");
+        jtxtH.setText("0");
+        jtxtI.setText("2");
+        jtxtJ.setText("0");
+        jtxtK.setText("0");
+        jtxtL.setText("2");
+        jtxtM.setText("0");
+        jtxtN.setText("0");
+        jtxtO.setText("2");
+        jtxtP.setText("0");
+        jtxtQ.setText("0");
+        jtxtR.setText("0");
+        jtxtS.setText("3");
+        jtxtT.setText("0");
+        jtxtU.setText("0");
+        jtxtV.setText("0");
+        jtxtW.setText("0");
+        jtxtX.setText("0");
+        jtxtY.setText("0");
+        jtxtZ.setText("0");
+        jtxtIN.setText("A = 4	F = 3	K = 0	P = 0	U = 0	Z = 0\n" +
+"B = 1	G = 1	L = 2	Q = 0	V = 0\n" +
+"C = 2	H = 0	M = 0	R = 0	W = 0\n" +
+"D = 1	I = 2	N = 0	S = 3	X = 0\n" +
+"E = 3	J = 0	O = 2	T = 0	Y = 0");
+t("");
+        jtxt3.setText("");
+    }                                        
+
+
+
+/*Cek SImpul :*\
+
+        jtxt0.setText("Level 0");
+        jtxt1.setText("Level 1");
+        jtxt2.setText("Level 2");
+        jtxt3.setText("Level 3");
+        jtxt4.setText("Level 4");
+        jtxtIN.setText("Level = 0	Simpul = A			Jumlah = 1\n" +
+"Level = 1	Simpul = B, C, D, E		Jumlah = 4\n" +
+"Level = 2	Simpul = F, G, H, I, J, K, L		Jumlah = 7\n" +
+"Level = 3	Simpul = M, N, O, P, Q, R, S, T		Jumlah = 8\n" +
+"Level = 4	Simpul = U, V, W, X, Y, Z		Jumlah = 6");
